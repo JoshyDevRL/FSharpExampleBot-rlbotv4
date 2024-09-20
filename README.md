@@ -1,5 +1,7 @@
 # RLBotFSharpExample
 
+# OUTDATED
+
 Example/template of a Rocket League bot implemented in F#
 
 ## Usage Instructions
